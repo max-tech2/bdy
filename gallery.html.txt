@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Memories 📸</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Memories🤧💗</h1>
+
+<img src="images/img1.jpg">
+<img src="images/img2.jpg">
+<img src="images/img3.jpg">
+
+<br><br>
+<a href="index.html">Back</a>
+
+</body>
+</html>

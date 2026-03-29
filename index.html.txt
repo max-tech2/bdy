@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Birthday❤️</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Happy Birthday ❤️</h1>
+<p>For my favourite person</p>
+
+<video controls autoplay loop>
+  <source src="video.mp4" type="video/mp4">
+</video>
+
+<br><br>
+
+<a href="letter.html">Read my letter 💌</a> |
+<a href="gallery.html">Memories 📸</a>
+
+</body>
+</html>
